@@ -16,4 +16,4 @@ Things I did for making this repository.
      git push -u origin main
     ```
  + I have created an empty folder in my file explorer and opened the folder in CMD. Then I just copy pasted and executed the lines one by one.
- + The first line of copied contents `echo "# Demo-2" >> README.md` created an README.md file with the content `"# Demo-2"`.
+  + The first line of copied contents `echo "# Demo-2" >> README.md` created an README.md file with the content `"# Demo-2"`.
