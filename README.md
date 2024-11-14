@@ -7,7 +7,7 @@ Things I did ~~not~~ for making this repository.
  + Created a empty repository named `Demo-for-GitHub` in [GitHub](https://gitHub.com/new).
  + Copied the contents from the page titled **`create a new repository on the command line`** and the lines are 
     ```
-     echo *"# Demo-for-GitHub"* >> README.md
+     echo "*# Demo-for-GitHub*" >> README.md
      git init
      git add README.md
      git commit -m "README.md"
